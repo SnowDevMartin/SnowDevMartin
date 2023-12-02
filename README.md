@@ -18,7 +18,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/martin-fusalario/)
 
 <br/>
-<br/>
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://melbins.com/wp-content/uploads/icons/javascript.svg"> </a>
