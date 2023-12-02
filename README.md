@@ -33,5 +33,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowDevMartin&show_icons=true&theme=radical)
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowDevMartin&show_icons=true&theme=tokyonight)
 
