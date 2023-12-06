@@ -27,16 +27,19 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://melbins.com/wp-content/uploads/icons/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://melbins.com/wp-content/uploads/icons/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/MySQL-Dark.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/MongoDB.svg" align="left" alt="git" height='42px'/> </a>
 </div>
 <br/>
 <br/>
 <div>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/Astro.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/Vite-Dark.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/TailwindCSS-Dark.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/NestJS-Dark.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/CSS.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/Prisma.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/ExpressJS-Dark.svg" align="left" alt="git" height='42px'/> </a>
 </div>
 
 <br/>
