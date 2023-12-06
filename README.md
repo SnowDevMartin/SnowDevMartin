@@ -7,7 +7,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://melbins.com/wp-content/uploads/icons/coding.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://melbins.com/wp-content/uploads/icons/full-stack-developer.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
