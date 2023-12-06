@@ -32,6 +32,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 </div>
 <br/>
 <br/>
+<br/>
 <div style="margin-top:5px;">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/Astro.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/Vite-Dark.svg" align="left" alt="git" height='42px'/> </a>
