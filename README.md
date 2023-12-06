@@ -27,6 +27,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<br/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://melbins.com/wp-content/uploads/icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
